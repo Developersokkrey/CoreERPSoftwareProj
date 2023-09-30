@@ -1,4 +1,4 @@
-namespace Core_ERP_Proj
+namespace CoreERPProj
 {
     public class WeatherForecast
     {

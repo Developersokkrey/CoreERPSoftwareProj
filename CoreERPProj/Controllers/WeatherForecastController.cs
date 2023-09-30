@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CoreERPProj;
+using Microsoft.AspNetCore.Mvc;
 
-namespace Core_ERP_Proj.Controllers
+namespace CoreERPProj.Controllers
 {
     [ApiController]
     [Route("[controller]")]
